@@ -9,7 +9,7 @@ The app will take in orders from customers and deplete stock from the store's in
 
 1. Create a MySQL Database called `bamazon`.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/images/create-bamazon.jpeg "Create bamazon")
+![alt text](https://github.com/hughescoding/bamazon/blob/master/images/create-bamazon.jpeg?raw=true "Create bamazon")
 
 2. Then create a Table inside of that database called `products`.
 
