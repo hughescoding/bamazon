@@ -9,9 +9,10 @@ The app will take in orders from customers and deplete stock from the store's in
 
 1. Create a MySQL Database called `bamazon`.
 
+2. Then create a Table inside of that database called `products`.
+
 ![alt text](https://github.com/hughescoding/bamazon/blob/master/images/create-bamazon.jpeg?raw=true "Create bamazon")
 
-2. Then create a Table inside of that database called `products`.
 
 3. The products table should have each of the following columns:
 
@@ -26,6 +27,8 @@ The app will take in orders from customers and deplete stock from the store's in
    * stock_quantity (how much of the product is available in stores)
 
 4. Populate this database with around 10 different products. (i.e. Insert "mock" data rows into this database and table).
+
+![alt text](https://github.com/hughescoding/bamazon/blob/master/images/insert-products.jpeg?raw=true "Insert Products")
 
 5. Then create a Node application called `bamazonCustomer.js`. Running this application will first display all of the items available for sale. Include the ids, names, and prices of products for sale.
 
