@@ -4,6 +4,7 @@ This project is to build a node command line app that is an Amazon-like storefro
 
 The app will take in orders from customers and deplete stock from the store's inventory.
 
+
 ### Customer View build instructions:
 
 1. Create a MySQL Database called `bamazon`.
